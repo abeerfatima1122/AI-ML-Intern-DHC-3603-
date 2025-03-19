@@ -9,7 +9,7 @@ This repository contains three AI/ML projects completed as part of my **AI/ML in
 🔹 **Tech Stack:** Python, NLP, TF-IDF, Logistic Regression, Naïve Bayes  
 🔹 **Key Steps:**  
    - Data preprocessing (removal of stopwords, stemming, vectorization)  
-   - Model training using **Logistic Regression & Naïve Bayes**  
+   - Model training using **Logistic Regression & Naive Bayes**  
    - Performance evaluation using **accuracy, precision, recall, and F1-score**  
 
 ---
@@ -19,7 +19,7 @@ This repository contains three AI/ML projects completed as part of my **AI/ML in
 🔹 **Tech Stack:** Python, NLP, TF-IDF, Logistic Regression, Naïve Bayes  
 🔹 **Key Steps:**  
    - Text preprocessing (cleaning, tokenization, TF-IDF vectorization)  
-   - Model training using **Logistic Regression & Naïve Bayes**  
+   - Model training using **Logistic Regression & Naive Bayes**  
    - Performance comparison and evaluation  
 
 ---
